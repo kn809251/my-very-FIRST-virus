@@ -1,5 +1,5 @@
 # my-very-FIRST-virus
-pass:1234
+pass for v1 and v2:1234
 
 pass for RICKSCAPE account when u logon:kill
 
